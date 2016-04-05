@@ -1,3 +1,22 @@
 /*body {
 	background-color: #FF0000;
 }*/
+
+form div {
+	margin-bottom: 5px;
+}
+
+label {
+	width : 110px;
+	display: inline-block;
+}
+
+#post {
+	width: 300px;
+	min-width: 150px;
+	height: 100px;
+	min-height: 50px;
+	max-width: 600px;
+	max-height: 200px;
+	font-family: arial;
+}
